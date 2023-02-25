@@ -1,0 +1,42 @@
+
+.main {
+  background: url(../../../public//images/main1copy.jpg);
+  background-size: cover;
+  min-height: 95vh;
+  width: 100%;
+}
+
+.main h1 {
+  font-size: 5rem;
+  font-weight: 800;
+  color: rgb(7, 7, 78);
+}
+
+.main input {
+  height: 71px;
+  width: 70%;
+  border: none;
+  outline: none;
+  padding: 15px;
+}
+
+.btnFindJob {
+  height: 71px;
+  width: 25%;
+  background-color: rgb(243, 73, 73);
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.4s;
+  margin-left: -4px;
+}
+
+.btnFindJob:hover {
+  background: rgb(214, 11, 11);
+  transition: all 0.4s;
+}
+
+.redText {
+  color: red;
+}

@@ -1,0 +1,27 @@
+
+.job h1{
+  font-size: 3.5rem;
+  color: rgb(7, 7, 78);
+}
+
+.btnPostJob{
+  height: 60px;
+  width: 30%;
+  outline: none;
+  border: none;
+  background: rgb(243, 73, 73);
+  color: white;
+  transition: all 0.4s;
+}
+
+.btnPostJob:hover{
+  background: rgb(214, 11, 11);
+  color: white;
+  transition: all 0.4s;
+  border: none;
+  outline: none;
+}
+
+.redText {
+  color: red;
+}

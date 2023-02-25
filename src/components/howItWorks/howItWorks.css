@@ -1,0 +1,28 @@
+
+.apply{
+  background: url(../../../public/images/cool-background.png) no-repeat;
+  background-size: cover;
+  /* height: 110vh; */
+  width: 100%;
+}
+
+.apply .card{
+  background-color: rgb(4,26,100,0.801);
+  color: white;
+}
+
+.cir1{
+  height: 100px;
+  width: 100px;
+  background: white;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.cir1 img{
+  border-radius: 50%;
+}
+
+.redText {
+  color: red;
+}

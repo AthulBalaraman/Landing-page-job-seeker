@@ -1,0 +1,53 @@
+.navbar-brand {
+  font-size: 2rem;
+  color: red;
+  font-family: "Dancing Script", cursive;
+}
+
+.nav-link {
+  color: rgb(10, 10, 94);
+}
+
+.nav-link:hover {
+  color: red;
+  transition: 0.3s;
+}
+
+.nav-item {
+  color: rgb(7, 7, 78);
+  font-weight: 500;
+  padding-left: 35px;
+}
+
+.btnRegister {
+  height: 52px;
+  width: 130px;
+  outline: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: all 0.4s;
+  background-color: rgb(248, 83, 83);
+}
+
+.btnRegister:hover {
+  background: rgb(214, 11, 11);
+  transition: all 0.4s;
+}
+
+.btnLogin {
+  height: 52px;
+  width: 130px;
+  background-color: transparent;
+  color: rgb(248, 20, 20);
+  outline: none;
+  border: 2px solid rgb(248, 20, 20);
+}
+
+.btnLogin:hover {
+  background-color: rgb(214, 11, 11);
+  transition: all 0.4s;
+  color: white;
+  border: none;
+  outline: none;
+}

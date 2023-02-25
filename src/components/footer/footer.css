@@ -1,0 +1,49 @@
+
+.footer{
+  background: #121626;
+  color: white;
+}
+
+.footer p{
+  margin: 0;
+  color: #69696b;
+}
+
+.link{
+  color: #6b6b72;
+  transition: all 0.4s;
+}
+
+.link:hover{
+  color: #ff2962;
+  padding-left: 10px;
+  transition: all 0.4s;
+  cursor: pointer;
+}
+
+.footer input{
+  height: 45px;
+  width: 70%;
+  padding: 10px 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+.footer button{
+  height: 45px;
+  width: 20%;
+  border: none;
+  outline: none;
+  margin-left: -12px;
+  border-top: 1px solid #ff2962;
+  background: #ff2962;
+  color: white;
+  margin-top: 40px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.redText {
+  color: red;
+}
